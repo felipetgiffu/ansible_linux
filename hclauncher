@@ -207,7 +207,7 @@ Create a directory (/etc/ansible/playbook/linux/hclauncher) / Create file (insta
       format: zip
      
 ===================================================================
-Create a directory (scripts) -> create a file (hc_run) = /scripts/hc_run
+Create a directory (scripts) -> create a file (hc_run) = /etc/ansible/playbook/linux/hclauncher/scripts/hc_run
 
 #/bin/ksh
 hcBaseDir=$1 	#remoteBaseDirHCBin
